@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SnapShop</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="nav_open">nav_open\n</string>
+    <string name="nav_close">nav_close\n</string>
+    <string name="todo">TODO</string>
+    <string name="open_menu">Open menu</string>
+</resources>

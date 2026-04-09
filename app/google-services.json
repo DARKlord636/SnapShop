@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569118770572",
+    "project_id": "snapshop-8c68c",
+    "storage_bucket": "snapshop-8c68c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569118770572:android:95c695be6edacd3a9e02a9",
+        "android_client_info": {
+          "package_name": "com.example.snapshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569118770572-l73psdmdb3jf81us1dpghse4vlsouaae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.snapshop",
+            "certificate_hash": "8f8025568fa86142f702ca673f42d3d2a3e71a1c"
+          }
+        },
+        {
+          "client_id": "569118770572-9d6lngan52vibjn8031j6p8nmnlhon7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetfc9IhnVzUBD2p_mgZdy-fzRZANEnVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569118770572-19p6vm3r6p8236cqu2knsm9laig7foat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

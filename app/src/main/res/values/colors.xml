@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+
+    <!-- ─── Background ─────────────────────────────────────────── -->
+    <color name="bg_dark">#0F0F18</color>
+    <color name="bg_surface">#18182A</color>
+    <color name="bg_elevated">#1C1C30</color>
+
+    <!-- ─── Accent / Brand Purple ──────────────────────────────── -->
+    <color name="accent_purple">#7C5CE0</color>
+    <color name="accent_purple_dark">#6C3FC7</color>
+    <color name="accent_purple_light">#A78BFA</color>
+    <color name="accent_purple_softest">#C4B5FD</color>
+
+    <!-- ─── Accent Pink (orb / decorative) ────────────────────── -->
+    <color name="accent_pink">#E040FB</color>
+    <color name="accent_cyan">#00BCD4</color>
+
+    <!-- ─── Text ───────────────────────────────────────────────── -->
+    <color name="text_primary">#F0ECFF</color>
+    <color name="text_secondary">#C4C0DF</color>
+    <color name="text_soft">#8B89BB</color>
+    <color name="text_soft_purple">#E0D9FF</color>
+    <color name="text_muted">#5E5D78</color>
+    <color name="text_dim">#4E4D6A</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- ─── Hints & Labels ─────────────────────────────────────── -->
+    <color name="hint_color">#3D3C58</color>
+    <color name="label_color">#7B7A96</color>
+
+    <!-- ─── Form Fields ────────────────────────────────────────── -->
+    <color name="field_bg">#18182A</color>
+    <color name="field_bg_focused">#1C1C30</color>
+    <color name="field_border">#2E2D45</color>
+    <color name="field_border_hover">#3D3C5A</color>
+    <color name="field_border_focused">#7C5CE0</color>
+
+    <!-- ─── Dividers ───────────────────────────────────────────── -->
+    <color name="divider_color">#1E1D30</color>
+
+
+    <color name="surface_dark">#1E1B2E</color>
+    <!-- ─── Icons ──────────────────────────────────────────────── -->
+    <color name="icon_muted">#4E4D6A</color>
+    <color name="icon_soft">#7B7A96</color>
+
+    <!-- ─── Checkbox & Toggle ──────────────────────────────────── -->
+    <color name="checkbox_unchecked">#2E2D45</color>
+    <color name="checkbox_checked">#7C5CE0</color>
+
+    <!-- ─── Progress / Loader ──────────────────────────────────── -->
+    <color name="progress_tint">#7C5CE0</color>
+
+    <!-- ─── Testimonial Card ───────────────────────────────────── -->
+    <color name="card_bg">#14142A</color>
+    <color name="card_border">#1A1A35</color>
+
+    <!-- ─── Avatar Gradient (use as start/end in GradientDrawable) -->
+    <color name="avatar_start">#7C5CE0</color>
+    <color name="avatar_end">#E040FB</color>
+
+    <!-- ─── Status Colors ──────────────────────────────────────── -->
+    <color name="success">#1D9E75</color>
+    <color name="error">#E24B4A</color>
+    <color name="warning">#EF9F27</color>
+
+
+    <color name="nav_header_bg">#1A1A2E</color>
+</resources>
