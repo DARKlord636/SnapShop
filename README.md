@@ -1,4 +1,4 @@
-# Snap shop ( E-commerce  app assignment
+# Snap shop ( E-commerce  app assignment )
 
 ## Features
 - Login system
