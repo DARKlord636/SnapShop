@@ -2,7 +2,7 @@
 
 ## Features
 - Login system
-- Firebase integration ( authenciation)
+- Firebase integration
 - Clean UI
 
 ## How to Run
